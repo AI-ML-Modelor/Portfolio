@@ -63,7 +63,7 @@ const services = [
     icon: web,
   },
   {
-    title: "Frontend Developer",
+    title: "Python Developer",
     icon: mobile,
   },
   {
@@ -160,7 +160,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2023 - present",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
+      "Developing and maintaining various things depends on my mood.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -171,15 +171,15 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
-    name: "MD Mustaqeem",
+      "I thought it was impossible to make a website as beautiful as our product, but shubham proved me wrong.",
+    name: "Mr kaushal",
     designation: "Ecommerce",
     company: "QuickMart",
     image: firstTestimonial,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
+      "I've never met a web developer who truly cares about their clients' success like Shubham does.",
     name: "Abdul Raheman",
     designation: "Ecommerce Business",
     company: "justbuyz",
@@ -187,7 +187,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Shubham optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "James Wang",
     designation: "CTO",
     company: "456 Enterprises",
